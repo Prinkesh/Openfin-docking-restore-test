@@ -3,7 +3,7 @@
   "startup_app": {
     "name": "Test Window",
     "description": "",
-    "url": "http://127.0.0.1:8081/#/parent",
+    "url": "http://127.0.0.1:9091/#/parent",
     "uuid": "OpenfinPOC-Parent",
     "autoShow": true
   },
