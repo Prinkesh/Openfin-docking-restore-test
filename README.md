@@ -1,4 +1,4 @@
-# test-project
+# Openfin-docking-restore-test
 
 > A Vue.js project
 
