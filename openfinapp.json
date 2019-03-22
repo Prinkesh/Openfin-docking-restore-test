@@ -1,0 +1,24 @@
+{
+  "devtools_port": 9090,
+  "startup_app": {
+    "name": "Test Window",
+    "description": "",
+    "url": "http://127.0.0.1:8081/#/parent",
+    "uuid": "OpenfinPOC-Parent",
+    "autoShow": true
+  },
+  "services": [
+    {
+      "name": "layouts"
+    }
+  ],
+  "runtime": {
+    "arguments": "",
+    "version": "9.61.38.40"
+  },
+  "shortcut": {
+    "company": "test",
+    "description": "test",
+    "name": "test"
+  }
+}
